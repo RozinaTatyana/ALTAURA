@@ -1,0 +1,12 @@
+# Новые иллюстрации «Собирайте моменты»
+
+Созданы встроенным OpenAI ImageGen. Файлы: `assets/moments-mountains.jpg` и `assets/moments-forest.jpg`. Логотип «Рельеф» и варианты выполнены в SVG.
+
+## Горы
+
+Use case: illustration-story. Asset: premium author-drawn editorial illustration for ALTAURA mountain glamping website activity card, vertical portrait 2:3. Primary request: expressive mountain landscape artwork in a sophisticated outdoors poster and hand-pulled screenprint style, not a generic icon. Composition: three large asymmetrical rounded mountain ridges at varying depths, a steep central high peak, winding contour lines following their slopes, tiny dark cedar trees at foot of mountains, foreground a dark flowing river of shadow, off-center small chartreuse sun disc peeking behind distant ridge. Flat bold organic silhouettes, hand-carved woodcut hatching on slopes, tasteful rough ink edges and very subtle paper grain. Limited palette ONLY deep dark olive #303621, muted sage #9ba47a, warm cream #f1efdd, chartreuse yellow #e3e52a. Dark olive background with cream/sage mountains and chartreuse accent. Strong confident graphic forms, refined editorial nature identity, intricate enough to reward looking, no text, no typography, no logos, no border, no people, no photorealism, no gradients. Artwork fills frame, lower 20 percent dark olive calm negative space for website text overlay.
+
+## Хвойная тропинка
+
+Use case: illustration-story. Asset: premium author-drawn editorial illustration for ALTAURA mountain glamping website activity card, vertical portrait 2:3. Primary request: an inviting forest footpath among cedar and pine trees, sophisticated outdoor travel poster and hand-pulled screenprint style, not a generic icon. Composition: a warm cream winding trail recedes from lower center into deep olive conifer woodland, oversized expressive pine-needle branches curve in from upper left and right foreground, three layers of cedar trees and organic trunks create real depth, chartreuse flecks of sunlight on path. Flat bold organic silhouettes with hand-carved woodcut hatching on needles and trunks, rough ink edges, subtle paper grain, same graphic family as abstract mountain contour art. Limited palette ONLY deep dark olive #303621, muted sage #9ba47a, warm cream #f1efdd, chartreuse yellow #e3e52a. Sophisticated and serene, rich composition with strong negative space, no text, no typography, no logos, no border, no people, no photorealism, no gradients. Lower 20 percent deep olive calm space for website text overlay.
+
